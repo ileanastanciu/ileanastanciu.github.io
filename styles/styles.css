@@ -1,0 +1,12 @@
+[data-data="Meow"] {
+  background-color: red;
+}
+
+[data-data="Woof"] {
+  background-color: green;
+}
+
+[data-data="Quack"] {
+  color: purple;
+  font-size: 100px;
+}
